@@ -8,3 +8,6 @@
 ``` javascript
 var newVar = "Hello, world!";
 ```
+- [x] Buy milk
+- [ ] Order components
+- [ ] Introduce myself to the world
